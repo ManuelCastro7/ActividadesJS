@@ -1,0 +1,12 @@
+{
+  "name": "actividades-de-js",
+  "version": "1.0.0",
+  "description": "Aquí se completarán las actividades requeridas",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Castro",
+  "license": "ISC"
+}
